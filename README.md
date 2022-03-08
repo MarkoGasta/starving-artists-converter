@@ -36,6 +36,7 @@ After you installed the repo and extracted it I recommend you adjust the __SETTI
 "invertColors": false,
 
 // Black & White Alternate sensitivity to conversion
+// Max 255 - Min 0
 
 "contrastSensitivity": 128
 
