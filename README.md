@@ -2,7 +2,7 @@
 
 Ever wanted to the be master of art?
 
-Well, this tool allows you to upload any image you can think of directly to starving artists.  
+Well, this tool allows you to upload any image you can think of directly to [starving artists](https://www.roblox.com/games/8916037983).  
 If you are interested in more of Node.js, click [here](https://nodejs.dev/learn) to learn more about it
 
 ## Installation
